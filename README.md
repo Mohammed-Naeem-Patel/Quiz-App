@@ -29,12 +29,12 @@ An interactive Quiz App built with HTML, CSS, and JavaScript featuring multiple-
 
 ### Quiz Question Screen
 
-![Quiz Question](images/quiz-question.png)
+![Quiz Question](Images/quiz-question.png)
 
 
 ### Final Score Screen
 
-![Quiz Result](images/quiz-result.png)
+![Quiz Result](Images/quiz-result.png)
 
 ---
 
